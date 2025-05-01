@@ -31,7 +31,7 @@ const linkClass= ({isActive})=> isActive ? 'bg-black text-white hover:bg-gray-90
                   to="/add-job"
                   className={linkClass}>Add TEES</NavLink>
                   <NavLink
-                  to="/cart"
+                  to="/cartpage"
                   className={linkClass}>Cart</NavLink>
                   <NavLink
                   to="/login"
